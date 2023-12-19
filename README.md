@@ -1,7 +1,7 @@
 # Change watermak power setting on the fly in Klipper
-This simple code change in heater.py and pid_calibrate.py, lets you adjust the total power output to the heater. For some heaters you want to change your pwm_cycle_time as well.
+This simple code change in heater.py and pid_calibrate.py, lets you adjust the total power output to the heater. For some heaters you may want to change your pwm_cycle_time.
 
-# Gcode commands
+# Gcode command
 Now you can do this:
 ``` bash
     #Full Power
