@@ -7,7 +7,7 @@ Now you can do this:
     #Full Power
     SET_HEATER_TEMPERATURE HEATER=cabinet TARGET=50 POWER=1
     #%25 Power
-    SET_HEATER_TEMPERATURE HEATER=cabinet1 TARGET=50 POWER=0.25
+    SET_HEATER_TEMPERATURE HEATER=cabinet TARGET=50 POWER=0.25
 ```
 ### TODO
 * ~~Fix PID_CALIBRATE gcode crush~~
